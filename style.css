@@ -1,0 +1,37 @@
+body {
+  background-color: pink;
+  color: white;
+  padding: 50px;
+}
+
+p {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+button {
+  background-color: red;
+  color: white;
+  width: 100px;
+  height: 80px;
+  position: absolute;
+}
+#change2{
+  background-color: red;
+  color: white;
+  width: 50px;
+  height: 30px;
+  position: absolute;
+}
+
+.hidden {
+  display:none;
+}
+
+#move {
+  left: 200px;
+}
+
+#change:hover {
+  cursor:pointer;
+}
